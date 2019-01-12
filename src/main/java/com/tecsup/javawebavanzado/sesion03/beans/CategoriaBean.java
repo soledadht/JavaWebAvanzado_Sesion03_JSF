@@ -82,3 +82,5 @@ public class CategoriaBean {
 	public void setProductos(Collection<Producto> productos) {
 		this.productos = productos;
 	}
+	
+}
